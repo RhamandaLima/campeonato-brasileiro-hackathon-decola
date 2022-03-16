@@ -35,13 +35,13 @@
       </v-navigation-drawer>
     
     <v-main>
-      
+      <MeuInicio />
     </v-main>
   </v-app>
 </template>
 
 <script>
-
+import MeuInicio from './components/MeuInicio.vue'
 
 export default {
   name: 'App',
@@ -49,5 +49,9 @@ export default {
     drawer: false,
     group: null,
   }),
+
+  components: {
+    MeuInicio
+  }
 };
 </script>

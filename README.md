@@ -1,1 +1,1 @@
-# campeonato-brasileiro-hackathonDecola
+# campeonato-brasileiro-hackathon-decola

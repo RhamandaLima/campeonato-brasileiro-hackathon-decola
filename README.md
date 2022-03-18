@@ -1,2 +1,2 @@
 # campeonato-brasileiro-hackathon-decola
-add
+Treinamento para o 10º Hackathon da Iteris.
